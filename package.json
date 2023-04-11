@@ -1,0 +1,11 @@
+{
+  "name": "cpanel-n8n-dropflex",
+  "version": "1.0.0",
+  "scripts": {
+    "install-n8n": "npm i n8n --save",
+    "start": "nohup node index.js > /dev/null 2>&1"
+  },
+  "dependencies": {
+    "n8n": "^0.223.0"
+  }
+}
