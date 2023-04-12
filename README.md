@@ -6,7 +6,7 @@ Cpanel n8n simple deploy
 Install:
 
 ```
-npm run install
+npm run install-n8n
 ```
 
 Start:
