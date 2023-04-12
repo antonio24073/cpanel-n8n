@@ -1,7 +1,7 @@
 Cpanel n8n simple deploy
 =========================================
 
-This script lets you to run n8n in cpanel hosts easyly.
+This script lets you to run n8n in cpanel hosts easy.
 
 ## Testing in localhost:
 
