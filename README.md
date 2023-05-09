@@ -24,3 +24,13 @@ You can add more commands in your `package.json`
 Copy zip file or do a git clone in your home folder and set this:
 
 ![creating node app](./images/creating-cpanel-node-application.jpg)
+
+
+
+------------------------------
+
+# Donations
+
+Help keep projects free:
+
+https://www.paypal.com/donate/?business=X3W3QTHS7BDW4&no_recurring=0&item_name=Help+me+to+continue+the+free+projects&currency_code=BRL
